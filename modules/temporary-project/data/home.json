@@ -1,0 +1,371 @@
+{
+  "xpst": {
+    "school": 800,
+    "enterprise": 200,
+    "student": 50000
+  },
+  "yxgk": {
+    "inData": {
+      "name": "院校信息",
+      "data": [
+        {
+          "value": 68,
+          "name": "211"
+        },
+        {
+          "value": 21,
+          "name": "985"
+        },
+        {
+          "value": 476,
+          "name": "普通本科"
+        }
+      ]
+    },
+    "outData": {
+      "name": "院校信息",
+      "data": [
+        {
+          "value": 565,
+          "name": "本科"
+        },
+        {
+          "value": 276,
+          "name": "高职"
+        }
+      ]
+    }
+  },
+  "cptx": {
+    "dsj": [
+      "实验教学",
+      "科研实训",
+      "以赛促学"
+    ],
+    "wlaq": [
+      "网络教学",
+      "专长培训",
+      "靶场经济"
+    ],
+    "rgzn": [
+      "实验教学",
+      "科研&实训",
+      "无人驾驶"
+    ]
+  },
+  "map": [
+    {
+      "name": "北京",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 1
+    },
+    {
+      "name": "天津",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "上海",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "重庆",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "河北",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "河南",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "云南",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "辽宁",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "黑龙江",
+      "logo": [
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "湖南",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "安徽",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "山东",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "新疆",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "江苏",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "浙江",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "江西",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "湖北",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "广西",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "甘肃",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "山西",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "内蒙古",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "陕西",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "吉林",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "福建",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "贵州",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "广东",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "青海",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "西藏",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "四川",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "宁夏",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "海南",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "台湾",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "香港",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "澳门",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    },
+    {
+      "name": "南海诸岛",
+      "logo": [
+        "anh01.png",
+        "anh01.png"
+      ],
+      "value": 2
+    }
+  ],
+  "yxcg": [
+    {
+      "logo": "anh01.png",
+      "name": "1"
+    },
+    {
+      "logo": "anh02.png",
+      "name": "2"
+    },
+    {
+      "logo": "anh03.png",
+      "name": "3"
+    },
+    {
+      "logo": "anh04.png",
+      "name": "4"
+    },
+    {
+      "logo": "anh05.png",
+      "name": "5"
+    },
+    {
+      "logo": "anh06.png",
+      "name": "6"
+    }
+  ]
+}

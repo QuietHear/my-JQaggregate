@@ -1,0 +1,5 @@
+/*
+ * @LastEditors: aFei
+ * @LastEditTime: 2022-12-05 18:11:39
+*/
+(function(e){typeof define=="function"&&define.amd?define(e):e()})(function(){"use strict";const e=[{link:"select-date",name:"\u9009\u62E9\u65E5\u671F\u63D2\u4EF6"},{link:"interface-show",name:"\u63A5\u53E3\u5C55\u793A\u793A\u4F8B\u9875\u9762"},{link:"indicator-floor",name:"\u7535\u5546\u7F51\u7AD9\u697C\u5C42\u6307\u793A\u5668"},{link:"drag-menu",name:"\u53EF\u62D6\u62FD\u7684\u83DC\u5355"},{link:"carousel-3d",name:"3d\u8F6E\u64AD"},{link:"carousel-replace",name:"\u66FF\u6362\u8F6E\u64AD"},{link:"carousel-seamless",name:"\u65E0\u7F1D\u8F6E\u64AD"},{link:"carousel-slides",name:"\u5E7B\u706F\u7247\u8F6E\u64AD"},{link:"calculation-amount",name:"\u91D1\u989D\u8BA1\u7B97\u5668"},{link:"temporary-project",name:"\u4E34\u65F6\u9879\u76EE\uFF08\u8BB0\u5F55\u91CD\u70B9\uFF1A\u8001\u7248\u672Cecharts\u79BB\u7EBF\u5730\u56FE\uFF09"}];let n="";e.forEach(a=>{n+=`<li><a href="modules/${a.link}/index.html" target="_blank">${a.name}</a></li>`}),$("ol").html(n)});
